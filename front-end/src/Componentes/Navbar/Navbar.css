@@ -1,0 +1,16 @@
+
+#links_navbar link{ 
+    color: red;
+}
+
+#azul1{
+    color: rgb(10, 61, 191);
+}
+
+#link-login{
+    font-size: 14px;
+}
+
+a#azul1.navbar-brand{
+    margin-right: 0;
+}

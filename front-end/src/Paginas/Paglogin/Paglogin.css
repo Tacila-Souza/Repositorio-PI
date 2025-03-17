@@ -1,0 +1,20 @@
+
+
+.centralizar{
+    width: 100px ;
+    margin: 0 auto;
+}
+
+
+p{
+    display: inline;
+
+}
+
+input{
+    font-weight: 600;
+}
+
+a{
+    display: inline;
+}

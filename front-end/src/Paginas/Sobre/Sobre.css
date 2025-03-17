@@ -1,0 +1,41 @@
+
+
+p{
+    color: #0A3DBF;
+    font-weight: 600;
+}
+
+.sobreoprojeto{
+    padding-top: 20px;
+}
+
+#hazul{
+    color: #0A3DBF;
+}
+
+.fotos-sobre img{
+    border-radius: 100%;
+    margin: 15px 0;
+}
+
+.fotos-sobre img{
+    border-radius: 100%;
+    margin: 15px 0;
+}
+
+
+
+#nomes {
+    font-weight: 600;
+    background-color: white;
+    color: #0A3DBF;
+    border-radius: 10px;
+    padding: 5px 15px;
+}
+
+
+#email {
+    display: block;
+    border-radius: 10px;
+    background: white;
+}
